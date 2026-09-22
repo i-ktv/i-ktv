@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ilya Kotov
 
-<!--
-**i-ktv/i-ktv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integration developer focused on backend systems, integrations, networking, and developer tooling.
 
-Here are some ideas to get you started:
+I like building practical tools that solve real-world problems — especially around Linux, networking, automation, browser tooling, and game development experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+Java · Groovy · Apache Camel · Kafka · Linux · JavaScript
+
+### Current side projects
+
+- Split tunneling tooling for Amnezia VPN
+- Firefox extension
+- Game development experiments with Unity and Godot
